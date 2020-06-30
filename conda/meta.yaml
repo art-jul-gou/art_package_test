@@ -1,0 +1,6 @@
+package:
+  name: "package-test"
+  version: "1"
+
+source:
+  git_url: "https://github.com/art-jul-gou/package-test.git"
