@@ -1,9 +1,9 @@
 package:
-  name: "package-test"
+  name: "art_package_test"
   version: "1"
 
 source:
-  git_url: "https://github.com/art-jul-gou/package-test.git"
+  git_url: "https://github.com/art-jul-gou/art_package_test.git"
 
 build:
   noarch: "python"
